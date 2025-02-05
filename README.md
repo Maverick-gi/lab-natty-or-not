@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# "Aplicativo de Leitura Visual para Pessoas com Deficiência Visual"
 
 ## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+No mundo digital de hoje, a acessibilidade é um fator fundamental para garantir que todos possam aproveitar as possibilidades que a tecnologia oferece. Uma das áreas mais importantes é a leitura de textos para pessoas com deficiência visual, e é aí que o Aplicativo de Leitura Visual entra em cena.
+Este aplicativo foi desenvolvido com o objetivo de promover a inclusão e a autonomia das pessoas com deficiência visual, oferecendo uma maneira prática e eficaz de consumir textos digitais de maneira independente. Utilizando recursos como a leitura em voz alta e a navegação por gestos, o aplicativo se torna um aliado essencial no cotidiano dessas pessoas.
 
 ### Objetivos
+1.  Desenvolver um aplicativo acessível e intuitivo, que utilize tecnologia de leitura de texto por voz para ajudar pessoas com deficiência visual a lerem textos e acessarem informações no celular de maneira eficiente e inclusiva.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+2. **Funcionalidades do Aplicativo**:
+Leitura em Voz Alta: O aplicativo usa um sistema de síntese de voz de alta qualidade para ler textos em voz alta, tornando qualquer conteúdo escrito acessível. Pode ser usado em livros digitais, artigos da internet, e-mails, entre outros.
 
-### Template
+Ajuste de Velocidade e Tom: A leitura pode ser personalizada, permitindo que o usuário ajuste a velocidade da fala e o tom de acordo com suas preferências pessoais.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Interface Simples e Intuitiva: A navegação no aplicativo é projetada para ser simples e fácil de usar. Com botões grandes e alto contraste, os usuários podem acessar funções de leitura e personalização com facilidade.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Reconhecimento de Imagem: O aplicativo também possui uma ferramenta de reconhecimento de imagem que descreve em voz alta o conteúdo visual de fotos ou gráficos, proporcionando uma descrição precisa de ambientes e objetos ao redor.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Compatibilidade com Leitores de Tela: O aplicativo é totalmente compatível com leitores de tela populares, como o TalkBack para Android, garantindo a integração perfeita com dispositivos móveis.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+3. **Benefícios para a Inclusão**:
+Este aplicativo tem o potencial de transformar a vida das pessoas com deficiência visual, proporcionando acesso igualitário à informação e aumentando sua participação em diversas atividades cotidianas, como leitura de notícias, aprendizado e interação social. Além disso, promove a independência, pois o usuário pode acessar conteúdos de forma autônoma sem a necessidade de ajuda externa.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+**Conclusão**:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Com o Aplicativo de Leitura Visual, a tecnologia pode ser uma poderosa aliada na promoção da inclusão social, proporcionando uma experiência mais rica e acessível para pessoas com deficiência visual. Através de funcionalidades inovadoras e um design focado nas necessidades desses usuários, o aplicativo torna a leitura e o consumo de conteúdo mais fáceis e acessíveis para todos.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+![uma pessoa com deficiencia visual com oculos escuros e uma bengala está sentada confortavelmente em uma cafeteria  Ela segura em sua mão seu celular](https://github.com/user-attachments/assets/f471f0e1-72c2-4de7-9b39-593f5c0d00e9)
