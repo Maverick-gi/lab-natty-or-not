@@ -1,51 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Aplicativo para Deficientes Visuais: "VoxVision"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Objetivo: Criar um aplicativo acessível para deficientes visuais que ajude na leitura de textos de livros, revistas e outros conteúdos, além de proporcionar a leitura do ambiente à frente da pessoa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+1.	Reconhecimento Óptico de Caracteres (OCR)
+o	Biblioteca: Tesseract OCR ou Google Vision API.
+o	Função: Convertir imagens de texto em texto digital.
+2.	Leitura de Texto
+o	Biblioteca: Google Text-to-Speech API ou Speech Synthesis API.
+o	Função: Converter o texto para fala com personalização de voz e velocidade.
+3.	Reconhecimento de Objetos
+o	Biblioteca: TensorFlow Lite ou Google ML Kit.
+o	Função: Detectar objetos, pessoas, e textos no ambiente usando a câmera.
+4.	Desenvolvimento do Aplicativo
+o	Plataforma: Flutter (multiplataforma) ou React Native para facilitar a compatibilidade com Android e iOS.
+o	Linguagens: Dart (Flutter) ou JavaScript (React Native).
+5.	Integração com Assistentes de Voz
+o	Plataforma: Google Assistant SDK ou SiriKit.
+o	Função: Permitir interação por comandos de voz.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O aplicativo para deficientes visuais foi desenvolvido com foco em acessibilidade, utilizando funcionalidades como leitura de texto em voz, navegação por gestos e compatibilidade com leitores de tela. O design foi simplificado com alto contraste e botões grandes. Testes com usuários reais garantiram uma experiência intuitiva e eficiente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto resultou em um aplicativo altamente acessível, aprovado por deficientes visuais, que melhorou a autonomia e a interação com a tecnologia. A navegação simplificada, a leitura de texto em voz e a compatibilidade com leitores de tela proporcionaram uma experiência mais inclusiva, positiva e funcional para os usuários.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar um aplicativo para deficientes visuais foi um grande desafio, principalmente devido à necessidade de tornar a interface intuitiva sem depender da visão. Garantir acessibilidade plena, integrar recursos de leitura de texto em voz e otimizar a navegação por gestos exigiu testes constantes e ajustes para atender às diversas necessidades do público.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
